@@ -1,19 +1,23 @@
 # Chef Automate Compliance Workshop
 
-The Chef Automate and Complaince Workshop is a 2 day onsite engagement that helps teams with prior experience, or that are completely new to Chef:
+The Chef Automate and Compliance Workshop is a 2 day onsite engagement that helps teams that are completely new to Chef or with prior experience, to achieve the following :
 
 1. Learn how to achieve business outcomes with automation using capabilities of the Chef, InSpec and the Chef Automate Platform
-2. Understand the value of Continuous Automation in order to increase the speed at which they deliver software changes, reduce risk of deploying infrastructure and applications not meeting compliance requirements, and increase the efficiency by reducing the rate of failed changes 
+
+2. Understand the value of Continuous Automation in order to increase the speed at which they deliver software changes, reduce risk of deploying infrastructure and applications not meeting compliance requirements, and increase the efficiency by reducing the rate of failed changes
+
 3. Prepare for “life after the workshop” by giving them  the tools and knowledge they need to be successful with Chef Automate and InSpec.
 
-In short, the Chef Automate and Complaince Workshop proves to companies that they can be successful with Chef and that they can achieve business outcomes with the capabilities of Chef Automate and InSpec. 
+In short, the Chef Automate and Compliance Workshop proves to companies that they can be successful with Chef and that they can achieve business outcomes with the capabilities of Chef Automate and InSpec. 
 
 ## Agenda for the Workshop
-This Chef Automate and Complaince Workshop is technical, hands-on, and interactive. We need 100% on-site attendance and 100% participation from everyone. We do a lot in a short amount of time, and the participants' complete commitment is the only way to ensure success. Involvement in the workshop is limited to 6-8 people who are subject matter and technical experts in the core team. We also encourage members of the leadership team from your organisation to participate as well. 
+
+This Chef Automate and Compliance Workshop is technical, hands-on, and interactive. We need 100% on-site attendance and 100% participation from everyone. We do a lot in a short amount of time, and the participants' complete commitment is the only way to ensure success. Involvement in the workshop is limited to 6-8 people who are subject matter and technical experts in the core team. We also encourage members of the leadership team from your organisation to participate as well. 
 
 The workshop topics familiarize teams with the core concepts of infrastructure automation with Chef, compliance automation with Inspec, and how to have larger success with automation utilising the capabilities of Chef Automate. 
 
 ## Infrastructure for the Workshop
+
 All of the infrastructure for the POC will be provided by Chef in a cloud environment. Infrastructure provided includes:
 - Chef Automate
 - Chef Server
@@ -21,6 +25,8 @@ All of the infrastructure for the POC will be provided by Chef in a cloud enviro
 - Chef Workstations (Workstations are Windows Server 2016 VMs with the ChefDK, Visual Studio Code, Atom text editor, and more.)
 
 ## Training Location Requirements
+
+The following is required at the training venue:
 1. Access to the public internet on port 3389 (RDP).
 2. Attendees laptops will need a Remote Desktop Protocol Client. If running a Mac, you can get one for free from the AppStore.
 3. Rolling whiteboard preferred, but at least one whiteboard
