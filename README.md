@@ -50,6 +50,9 @@ Learn the basics of Chef by taking a condensed version of Chef Essentials. Youâ€
 5. Templates
 6. Chef Automate and Chef Server Architecture . (Can spill over to Day 2.)
 
+#### Student Notes
+The slides for Day 1 are here - https://github.com/anthonygrees/chef_automate_compliance_workshop/blob/master/00-AllinOne.pdf
+
 #### Hands on Labs
 The hands on labs simulate the creation of a Linux and Windows webserver.
 
@@ -76,7 +79,6 @@ In addition, you will learn how to use InSpec to create and modify Chef Automate
 The hands on labs are for Windows, RHEL and CentOS
 
 https://github.com/anthonygrees/compliance-workshop
-
 
 
 
