@@ -48,6 +48,7 @@ Learn the basics of Chef by taking a condensed version of Chef Essentials. Youâ€
 3. Cookbooks
 4. Ohai
 5. Templates
+6. Chef Automate and Chef Server Architecture . (Can spill over to Day 2.)
 
 #### Hands on Labs
 The hands on labs simulate the creation of a Linux and Windows webserver.
