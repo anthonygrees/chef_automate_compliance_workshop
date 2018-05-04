@@ -1,0 +1,1 @@
+# chef_automate_compliance_workshop
